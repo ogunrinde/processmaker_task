@@ -2,7 +2,7 @@ To Run this Application;
 
 Follow the steps below;
 
-1. Push the app from GIT
+1. Pull the app from GIT
 2. cd to the folder name
 3. run composer install
 4. run npm install
